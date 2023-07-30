@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with NewsZilla app this app made with react function based component
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## ScreenShorts of app Home page
 
 ## Available Scripts
 

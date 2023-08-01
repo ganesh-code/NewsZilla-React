@@ -43,7 +43,7 @@ export default function News(props) {
     document.title = `${capitalizeFirstLetter(props.category)}-NewsZilla`
     fetchData();
     // eslint-disable-next-line
-  }, [])
+  }, [props.category])
 
 
   const fetchMoreData = async () => {
